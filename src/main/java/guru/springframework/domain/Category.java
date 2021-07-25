@@ -15,7 +15,6 @@ import java.util.Set;
 @Setter
 @Document
 public class Category {
-
     @Id
     private String id;
     private String description;
